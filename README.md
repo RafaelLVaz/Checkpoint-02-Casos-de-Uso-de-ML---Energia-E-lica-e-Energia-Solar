@@ -2,7 +2,9 @@
 ---
 Integrantes:
 Rafael Vaz - RM:566429
+
 André Eduardo Martins RM:563297
+
 Felipe Hui Hattori - RM:565169
 ---
 
