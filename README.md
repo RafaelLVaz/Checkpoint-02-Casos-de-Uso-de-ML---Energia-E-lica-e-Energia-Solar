@@ -1,11 +1,17 @@
 # Checkpoint-02-Casos-de-Uso-de-ML---Energia-Eólica-e-Energia-Solar
 ---
+Integrantes:
+Rafael Vaz - RM:566429
+André Eduardo Martins RM:563297
+Felipe Hui Hattori - RM:565169
+---
 
 ## 💻 Instruções da Entrega
 
 * A atividade pode ser desenvolvida em grupo.
 * Apenas um integrante deve submeter o arquivo.
 * Enviar apenas o link do repositório. Não envie arquivos .txt ou .pdf.
+  
 
 ---
 
